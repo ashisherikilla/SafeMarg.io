@@ -8,9 +8,9 @@ The project allows users to report accident locations, analyze severity distribu
 
 ## Live Demo 🌍
 
-Frontend: https://your-vercel-link.vercel.app
+Frontend: https://safe-marg-io.vercel.app/
 
-Backend API: https://your-render-link.onrender.com/api/accidents
+Backend API: https://safemarg-io.onrender.com/api/accidents
 
 ---
 
