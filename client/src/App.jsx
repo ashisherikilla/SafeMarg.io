@@ -1,6 +1,6 @@
 import { useState } from "react";
 import MapView from "./components/MapView";
-import image from "./assets/Safemarg_Logo_svg.png";
+import image from "./assets/SafeMarg_Logo_svg.png";
 
 function App() {
   const [theme, setTheme] = useState("Day");
