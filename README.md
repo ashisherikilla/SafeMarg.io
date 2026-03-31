@@ -121,6 +121,4 @@ Example request body:
 
 ## Author 👨‍💻
 
-Erikilla Ashish
-
-Full Stack Developer
+Erikilla Ashish | Full Stack Developer
